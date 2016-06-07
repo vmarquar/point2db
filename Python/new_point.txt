@@ -1,0 +1,24 @@
+﻿[Pflichtfelder]
+x = 4425336
+y = 5482056
+az = 16000
+BV = BV TEST (TEST TEST TEST)
+Kategorie = ALT
+
+[Optional]
+Geologie =
+
+#[Anmerkungen]
+#Folgende Kürzel sind für die Zuordnung der richtigen Shape-Files notwendig:
+#
+#GT für Geotechnikprojekte
+#EWS für Erdwärmesonden
+#ALT für Altlasten
+#HYD für Hydrologie
+#DEFAULT für alles andere
+#
+#Bei der Eintragung in die Datenbank findet eine Überprüfung der AZ Nummer statt, sodass keine doppelten Projekte eingetragen werden.
+#
+#
+#
+#
